@@ -1,6 +1,6 @@
 {
   "name": "postcss-camelize",
-  "description": "PostCSS plugin for camelizing strings.",
+  "description": "A PostCSS plugin for camelizing strings.",
   "version": "1.0.0",
   "license": "MIT",
   "author": "Robin van der Vleuten <robin@webstronauts.co>",
@@ -23,14 +23,11 @@
     "test": "standard && ava"
   },
   "dependencies": {
-    "camelcase": "^4.0.0"
+    "camelcase": "^4.0.0",
+    "postcss": "^5.2.11"
   },
   "devDependencies": {
     "ava": "^0.17.0",
-    "postcss": "^5.2.11",
     "standard": "^8.6.0"
-  },
-  "peerDependencies": {
-    "postcss": "^5.2.11"
   }
 }

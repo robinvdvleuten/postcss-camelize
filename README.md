@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/robinvdvleuten/postcss-camelize.svg?branch=master)](https://travis-ci.org/robinvdvleuten/postcss-camelize)
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
-[PostCSS](https://github.com/postcss/postcss) plugin for camelizing strings;
+A [PostCSS](https://github.com/postcss/postcss) plugin for camelizing strings;
 
 ```css
 .camelize(a-non-camelized-selector) {
