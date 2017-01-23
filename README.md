@@ -9,19 +9,11 @@ A [PostCSS](https://github.com/postcss/postcss) plugin for camelizing strings;
 .camelize(a-non-camelized-selector) {
     /* Input example */
 }
-
-.camelize(a-non-camelized-selector--with-modifier) {
-    /* Input example */
-}
 ```
 
 ```css
 .aNonCamelizedSelector {
   /* Output example */
-}
-
-.aNonCamelizedSelector--withModifier {
-    /* Input example */
 }
 ```
 
