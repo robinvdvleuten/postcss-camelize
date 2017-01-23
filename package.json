@@ -18,6 +18,11 @@
   "bugs": {
     "url": "https://github.com/robinvdvleuten/postcss-camelize/issues"
   },
+  "files": [
+    "lib",
+    "LICENSE",
+    "README.md"
+  ],
   "main": "lib/index.js",
   "scripts": {
     "test": "standard && ava"
