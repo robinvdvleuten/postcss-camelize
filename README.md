@@ -1,5 +1,7 @@
 # PostCSS Camelize
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/robinvdvleuten/postcss-camelize.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/robinvdvleuten/postcss-camelize.svg?branch=master)](https://travis-ci.org/robinvdvleuten/postcss-camelize)
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
