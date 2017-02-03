@@ -32,7 +32,7 @@
     "postcss": "^5.2.11"
   },
   "devDependencies": {
-    "ava": "^0.17.0",
+    "ava": "^0.18.0",
     "standard": "^8.6.0"
   }
 }
