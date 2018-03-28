@@ -28,7 +28,7 @@
     "test": "standard && ava"
   },
   "dependencies": {
-    "camelcase": "^4.0.0",
+    "camelcase": "^5.0.0",
     "postcss": "^6.0.0"
   },
   "devDependencies": {
